@@ -1,0 +1,7 @@
+ExitOnError 1
+r
+h
+loadfile "/proj2/imxrt/MCUXpresso_11.0.1_2563/git/evkbimxrt1050/evkbimxrt1050_freertos_test/Debug-SDRAM-Flash/evkbimxrt1050_freertos_test.bin" 0x60000000 
+qc
+
+qc
